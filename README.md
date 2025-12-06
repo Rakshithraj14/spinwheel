@@ -67,3 +67,5 @@ export default tseslint.config([
   },
 ])
 ```
+
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
